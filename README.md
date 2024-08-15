@@ -7,32 +7,32 @@ With each update, new features will be added according to your requests and our 
 
 PYTHON INSTALLATION <br>
 https://www.python.org/doc/<br>
-PIP INSTALLATION
-https://pip.pypa.io/en/stable/installation/
+PIP INSTALLATION<br>
+https://pip.pypa.io/en/stable/installation/<br><br>
 
-USER_TAF Module Installation:
+USER_TAF Module Installation:<br><br>
 
-Windows:: 
-`pip install colorama`
-`pip install bs4`
-`pip install requests`
-`pip install selenium`
-`pip install pyfiglet`
+Windows:: <br><br>
+`pip install colorama`<br>
+`pip install bs4`<br>
+`pip install requests`<br>
+`pip install selenium`<br>
+`pip install pyfiglet`<br><br>
 
-For Debian operating systems
+For Debian operating systems<br><br>
 
-`pip3 install pyfiglet`
-`pip3 install colorama`
-`pip3 install bs4`
-`pip3 install requests`
-`pip3 install selenium`
+`pip3 install pyfiglet`<br>
+`pip3 install colorama`<br>
+`pip3 install bs4`<br>
+`pip3 install requests`<br>
+`pip3 install selenium`<br><br>
 
-If it fails
+If it fails<br><br>
 
-`pip3 install pyfiglet --break-system-packages`
-`pip3 install colorama --break-system-packages`
-`pip3 install bs4 --break-system-packages`
-`pip3 install requests --break-system-packages`
-`pip3 install selenium --break-system-packages`
+`pip3 install pyfiglet --break-system-packages`<br>
+`pip3 install colorama --break-system-packages`<br>
+`pip3 install bs4 --break-system-packages`<br>
+`pip3 install requests --break-system-packages`<br>
+`pip3 install selenium --break-system-packages`<br><br>
 
 
