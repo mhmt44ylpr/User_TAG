@@ -27,7 +27,7 @@ For Debian operating systems<br><br>
 `pip3 install requests`<br>
 `pip3 install selenium`<br><br>
 
-If it fails<br><br>
+##**If it fails**<br><br>
 
 `pip3 install pyfiglet --break-system-packages`<br>
 `pip3 install colorama --break-system-packages`<br>
