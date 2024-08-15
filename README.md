@@ -13,3 +13,26 @@ https://pip.pypa.io/en/stable/installation/
 USER_TAF Module Installation:
 
 Windows:: 
+`pip install colorama`
+`pip install bs4`
+`pip install requests`
+`pip install selenium`
+`pip install pyfiglet`
+
+For Debian operating systems
+
+`pip3 install pyfiglet`
+`pip3 install colorama`
+`pip3 install bs4`
+`pip3 install requests`
+`pip3 install selenium`
+
+If it fails
+
+`pip3 install pyfiglet --break-system-packages`
+`pip3 install colorama --break-system-packages`
+`pip3 install bs4 --break-system-packages`
+`pip3 install requests --break-system-packages`
+`pip3 install selenium --break-system-packages`
+
+
