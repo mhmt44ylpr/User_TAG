@@ -35,4 +35,17 @@ For Debian operating systems<br><br>
 `pip3 install requests --break-system-packages`<br>
 `pip3 install selenium --break-system-packages`<br><br>
 
+**USER_TAG INSTALLATION**<br><br>
+
+`cd User_Tag-main`<br>
+`python3 main.py`<br><br>
+
+**User_Tag Usage**zbr><br>
+
+It is very simple to use<br>
+
+--Direct use is made by making a selection on the numbers between 1-14 and entering a username.<br>
+--Number 15: Print All feature scans all social accounts and saves it in a user.txt file<br>
+--Number 16 Check All feature allows you to do a preliminary scan before scanning immediately, giving you a preview of which features you should use
+
 
